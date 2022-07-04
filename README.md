@@ -35,4 +35,4 @@ Ensemble Classifier resulted with a 0.9316 Accuracy, 0.09 Precision for High Ris
 
 ## Summary:
 
-According to our test results, the technique of ensemble learning gives better results than under or oversampling. Ensemble learning (including Random Forest) works with many decision trees and collects all the from many "Weak Leaners" as a result our prediction, accuracy or reliability becomes better.
+According to our test results, the technique of ensemble learning gives better results than under or oversampling. Ensemble learning works with many decision trees and collects all the from many weak learning models as a result our prediction, accuracy or reliability becomes better.
