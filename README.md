@@ -12,11 +12,11 @@ The purpose of this analysis is to understand how to use Machine Learning statis
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Cluster%20Centroids.PNG)
 
-![]()
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/SMOTEENN.PNG)
 
-![]()
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.PNG)
 
-![]()
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 
 ## Summary:
