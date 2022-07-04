@@ -28,9 +28,11 @@ Balanced Random Forest Classifier resulted with a 0.7855 Accuracy, 0.04 Precisio
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.PNG)
 
-resulted with a 0.9316 Accuracy, 0.09 Precision for High Risk and a 1.00 Precision for Low risk cases. The sensitivity is 0.92 for High risk and 0.94 for Low risk cases.
+Ensemble Classifier resulted with a 0.9316 Accuracy, 0.09 Precision for High Risk and a 1.00 Precision for Low risk cases. The sensitivity is 0.92 for High risk and 0.94 for Low risk cases.
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 
 ## Summary:
+
+According to our test results, the technique of ensemble learning gives better results than under or oversampling. Ensemble learning (including Random Forest) works with many decision trees and collects all the from many "Weak Leaners" as a result our prediction, accuracy or reliability becomes better.
