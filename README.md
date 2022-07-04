@@ -10,8 +10,10 @@ The purpose of this analysis is to understand how to use Machine Learning statis
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/SMOTE%20OverSampling.PNG)
 
+### Cluster Centroids
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Cluster%20Centroids.PNG)
 
+### SMOTEENN
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/SMOTEENN.PNG)
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.PNG)
