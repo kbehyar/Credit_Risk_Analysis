@@ -24,7 +24,11 @@ SMOTEENN resulted with a 0.6501 Accuracy, 0.04 Precision for High Risk and a 1.0
 ### SMOTEENN
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/SMOTEENN.PNG)
 
+Balanced Random Forest Classifier resulted with a 0.7855 Accuracy, 0.04 Precision for High Risk and a 1.00 Precision for Low risk cases. The sensitivity is 0.67 for High risk and 0.90 for Low risk cases.
+
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.PNG)
+
+resulted with a 0.9316 Accuracy, 0.09 Precision for High Risk and a 1.00 Precision for Low risk cases. The sensitivity is 0.92 for High risk and 0.94 for Low risk cases.
 
 ![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
