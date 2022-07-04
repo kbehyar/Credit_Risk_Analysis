@@ -6,9 +6,11 @@ The purpose of this analysis is to understand how to use Machine Learning statis
 
 ## Results:
 
-![]()
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Naive%20OverSampling.PNG)
 
-![]()
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/SMOTE%20OverSampling.PNG)
+
+![](https://github.com/kbehyar/Credit_Risk_Analysis/blob/main/Images/Cluster%20Centroids.PNG)
 
 ![]()
 
